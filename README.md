@@ -1,10 +1,10 @@
-# SC-200 Lab: Microsoft Security Operations Analyst
+# SC-200 Study Notes: Microsoft Security Operations Analyst
 
 Hands-on lab documentation and practical study guide for the **SC-200 Microsoft Security Operations Analyst** certification exam.
 
 ## About This Repository
 
-This repo documents my journey preparing for the SC-200 exam through practical, hands-on exercises in the Microsoft Security stack. Every query, configuration, and scenario here was tested in a real environment (M365 E5 trial + Azure Sentinel).
+This repo documents my journey preparing for the SC-200 exam through practical, hands-on exercises in the Microsoft Security stack. A structured collection of study notes, KQL queries, and scenario walkthroughs created during SC-200 exam preparation. Queries were validated using Azure Data Explorer and Microsoft Learn sandboxes.
 
 The goal: not just pass the exam, but build real SOC Analyst skills that translate directly to the job.
 
